@@ -12,7 +12,6 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "LearnHub - Learning Platform",
   description: "Zamonaviy texnologiyalarni o'rganish platformasi",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
